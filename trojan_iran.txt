@@ -1,3 +1,4 @@
+trojan://ttfang@45.131.4.216:2096?path=%2FTelegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@vpnclashfa - 80
 trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#@vpnclashfa - 79
 trojan://trojan@www.visa.com.sg:8443?path=%2F%3Fed&security=tls&host=azadnet-f03.pages.dev&fp=random&type=ws&sni=azadnet-f03.pages.dev#@vpnclashfa - 78
 trojan://telegram-id-directvpn@63.179.73.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 77
