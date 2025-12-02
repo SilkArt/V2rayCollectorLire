@@ -94,8 +94,8 @@ trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443/?type=ws&host=jo
 trojan://Qzy7tgpRhu@37.18.14.33:443/?type=tcp&security=tls&sni=m.vk.com&allowInsecure=1&fp=chrome#@vpnclashfa - 26
 trojan://H8Gwt1EIq-jxr%3Dg%23@139.84.233.136:15813/?type=tcp&security=tls&sni=luckyday.silentrocket.click#@vpnclashfa - 25
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e#@vpnclashfa - 24
-trojan://BxceQaOe@58.152.53.22:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#@vpnclashfa - 23
-trojan://BxceQaOe@58.152.18.95:443/?type=tcp&security=tls&allowInsecure=1#@vpnclashfa - 22
+trojan://BxceQaOe@58.152.53.22:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#@vpnclashfa - 23
+trojan://BxceQaOe@58.152.53.22:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#@vpnclashfa - 22
 trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#@vpnclashfa - 21
 trojan://BxceQaOe@160.16.85.138:4492/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#@vpnclashfa - 20
 trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#@vpnclashfa - 19
