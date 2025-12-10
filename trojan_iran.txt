@@ -1,4 +1,5 @@
-trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#@vpnclashfa - 126
+trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#@vpnclashfa - 127
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#@vpnclashfa - 126
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 125
 trojan://telegram-id-privatevpns@51.44.137.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 124
 trojan://telegram-id-privatevpns@35.181.161.94:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 123
