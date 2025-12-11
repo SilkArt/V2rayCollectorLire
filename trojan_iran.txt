@@ -1,10 +1,9 @@
-trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#@vpnclashfa - 121
-trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#@vpnclashfa - 120
-trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 119
-trojan://telegram-id-privatevpns@51.44.137.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 118
-trojan://telegram-id-privatevpns@18.197.203.30:22222?security=tls&sni=trojan.burgerip.co.uk&fp=firefox&type=tcp#@vpnclashfa - 117
-trojan://telegram-id-privatevpns@13.39.187.138:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 116
-trojan://telegram-id-privatevpns@13.37.111.9:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 115
+trojan://ttfang@128.199.237.143:443/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me#@vpnclashfa - 120
+trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#@vpnclashfa - 119
+trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 118
+trojan://telegram-id-privatevpns@51.44.137.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 117
+trojan://telegram-id-privatevpns@18.197.203.30:22222?security=tls&sni=trojan.burgerip.co.uk&fp=firefox&type=tcp#@vpnclashfa - 116
+trojan://telegram-id-privatevpns@13.39.187.138:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 115
 trojan://telegram-id-privatevpns@13.37.103.10:22222?security=tls&sni=trojan.burgerip.co.uk&fp=firefox&type=tcp#@vpnclashfa - 114
 trojan://telegram-id-directvpn@63.181.72.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 113
 trojan://telegram-id-directvpn@63.181.59.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 112
