@@ -66,10 +66,10 @@ trojan://telegram-id-directvpn@15.224.2.133:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@15.224.128.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 146
 trojan://telegram-id-directvpn@15.224.11.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 145
 trojan://telegram-id-directvpn@15.188.240.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 144
-trojan://telegram-id-directvpn@13.39.251.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 143
-trojan://telegram-id-directvpn@13.39.249.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 142
-trojan://telegram-id-directvpn@13.38.239.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 141
-trojan://telegram-id-directvpn@13.38.168.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 140
+trojan://telegram-id-directvpn@15.188.211.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 143
+trojan://telegram-id-directvpn@13.39.251.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 142
+trojan://telegram-id-directvpn@13.39.249.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 141
+trojan://telegram-id-directvpn@13.38.239.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 140
 trojan://telegram-id-directvpn@13.37.70.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 139
 trojan://telegram-id-directvpn@13.37.34.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 138
 trojan://telegram-id-directvpn@13.37.153.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 137
