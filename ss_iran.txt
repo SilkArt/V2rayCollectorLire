@@ -1,3 +1,4 @@
+ss://f6a1f4ad-9d26-43c7-bce3-025df8dac591@8.210.248.133:43307?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 101
 ss://YWVzLTI1Ni1nY206OGRkYzBhNDctOWE3Zi00MWUxLWFkZjctZjYzMjIyNzZjMWNh@120.241.239.79:23001#@vpnclashfa - 100
 ss://YWVzLTI1Ni1nY206OGRhNjhiMDgtMmQ2MS00MTYzLWE1Y2UtNzM5MDgyZjZlZjBi@jp01.b.node-ip.top:23008#@vpnclashfa - 99
 ss://YWVzLTI1Ni1nY206NWQxZmNiZWUtYmE2Mi00ZjFlLThiN2QtNDYzYjc4OGE1MmE5@120.241.239.87:16008#@vpnclashfa - 98
