@@ -1,3 +1,4 @@
+ss://bddcb397-6f52-458e-9937-dfbf69db1e48@de3c.buzzon.shop:443?alpn=http%2F1.1&encryption=auto&host=de3c.buzzon.shop&path=%2Fx3VTnag3uLXXhaYVIROnda&security=tls&sni=de3c.buzzon.shop&type=ws#@vpnclashfa - 144
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#@vpnclashfa - 143
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:80#@vpnclashfa - 142
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:443#@vpnclashfa - 141
