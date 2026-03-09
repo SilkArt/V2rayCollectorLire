@@ -1,6 +1,7 @@
-ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#@vpnclashfa - 117
-ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 116
-ss://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#@vpnclashfa - 115
+ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#@vpnclashfa - 118
+ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 117
+ss://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#@vpnclashfa - 116
+ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@vpnclashfa - 115
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 114
 ss://YWVzLTI1Ni1nY206OGRkYzBhNDctOWE3Zi00MWUxLWFkZjctZjYzMjIyNzZjMWNh@120.241.239.79:23001#@vpnclashfa - 113
 ss://YWVzLTI1Ni1nY206OGRhNjhiMDgtMmQ2MS00MTYzLWE1Y2UtNzM5MDgyZjZlZjBi@jp01.b.node-ip.top:23008#@vpnclashfa - 112
@@ -107,10 +108,10 @@ ss://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=au
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@194.164.192.16:443?path=%2F%3Fed%3D2560%26m%F0%9F%87%A8%F0%9F%87%B3%402&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@vpnclashfa - 11
 ss://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 10
 ss://3b134252-e7c2-43df-98b7-da204104aa79@192.227.249.227:27641?encryption=auto&security=none&type=tcp#@vpnclashfa - 9
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 8
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 7
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 6
-ss://2c303328-4286-5eb9-b7b4-6fa3bd7cdaeb@209.200.246.179:443?allowInsecure=1&encryption=auto&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@vpnclashfa - 5
+ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 8
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 7
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 6
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 5
 ss://27ba87fc-583f-4763-9060-83cf0b9264db@172.233.229.91:14102?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://27511a97-b005-4b76-8fb6-84a6b66997b0@next.bestirspeed.top:1008?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#@vpnclashfa - 3
 ss://10f0133c-39c5-4224-f53d-ec4491114a59@66.103.210.150:13485?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 2
