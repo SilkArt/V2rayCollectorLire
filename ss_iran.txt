@@ -147,9 +147,9 @@ ss://4ea0fcda-4f32-4dc6-8e01-993d5fdcf65c@45.152.21.193:48814?encryption=auto&he
 ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&security=none&type=ws#@vpnclashfa - 10
 ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 9
 ss://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#@vpnclashfa - 8
-ss://40e306a6-7cab-40ac-a085-a961895eb11b@51.158.151.24:20104?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 7
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 6
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 5
+ss://4814b7d2-b478-4482-a1ab-6cea34b6581b@107.189.7.176:34972?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 7
+ss://40e306a6-7cab-40ac-a085-a961895eb11b@51.158.151.24:20104?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 6
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 5
 ss://27511a97-b005-4b76-8fb6-84a6b66997b0@next.bestirspeed.top:1008?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#@vpnclashfa - 4
 ss://2022-blake3-aes-256-gcm:fC8RxjImGow2OaOps+wSWAnqzdLCNDzBObN6Jo0ahgA=%3AM0ZpeDg4RndVRE5DTjNLVmg5ZnJaV213MW1FcEVHa2c=@nld.vpnlink.pro:990#@vpnclashfa - 3
 ss://2022-blake3-aes-256-gcm:R532mRBv3acPAGakeITDQWJRxyym0pxqvzJPmWCFwHU=@57.128.191.90:8388#@vpnclashfa - 2
