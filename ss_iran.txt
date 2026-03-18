@@ -1,9 +1,8 @@
-ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 168
-ss://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 167
-ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#@vpnclashfa - 166
-ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 165
-ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 164
-ss://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 163
+ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 167
+ss://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 166
+ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#@vpnclashfa - 165
+ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 164
+ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 163
 ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 162
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 161
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 160
