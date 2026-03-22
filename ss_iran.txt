@@ -1,10 +1,10 @@
 ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 153
 ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#@vpnclashfa - 152
-ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 151
-ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 150
-ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 149
-ss://c592f040-faff-47dc-a464-9bccf2dd4e7b@n1761214919.mv7wh.tech:443?allowInsecure=1&encryption=auto&host=n1761214919.mv7wh.tech&path=%2F&security=tls&sni=n1761214919.mv7wh.tech&type=ws#@vpnclashfa - 148
-ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2a14:7584:d0a2::a]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 147
+ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@vpnclashfa - 151
+ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 150
+ss://c592f040-faff-47dc-a464-9bccf2dd4e7b@n1761214919.mv7wh.tech:443?allowInsecure=1&encryption=auto&host=n1761214919.mv7wh.tech&path=%2F&security=tls&sni=n1761214919.mv7wh.tech&type=ws#@vpnclashfa - 149
+ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2a14:7584:d0a2::a]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 148
+ss://b1d3007c-441a-42d5-84b5-20301c46fa2c@n1761214905.wpg27.xyz:443?allowInsecure=1&encryption=auto&host=n1761214905.wpg27.xyz&path=%2F&security=tls&sni=n1761214905.wpg27.xyz&type=ws#@vpnclashfa - 147
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 146
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#@vpnclashfa - 145
 ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443#@vpnclashfa - 144
