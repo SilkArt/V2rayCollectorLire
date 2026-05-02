@@ -1,3 +1,4 @@
+ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 100
 ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 99
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 98
 ss://YWVzLTI1Ni1nY206OGRkYzBhNDctOWE3Zi00MWUxLWFkZjctZjYzMjIyNzZjMWNh@120.241.239.79:23001#@vpnclashfa - 97
