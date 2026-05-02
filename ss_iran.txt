@@ -97,8 +97,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VTFzanFpY2toKzhPajVVZDNiWnkzemgwTkVIK0FJZXQ
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#@vpnclashfa - 8
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206dndGWHR2Ky96SDJrYVFNVUxEWHRIZz09OkV3aGJhd3RVeDFFYjVCZDM0TzdoQ1BzaEczNDRuNWd3@vip.cafebaha.mom:5000#@vpnclashfa - 7
 ss://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&host=jp02.a0a.xyz&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 6
-ss://3171ac5c-d746-4298-82e0-d46f2f5aa51f@www.shopify.com:80?encryption=auto&host=de.gfw.hidns.co&path=%2Fdanfeng&security=none&type=ws#@vpnclashfa - 5
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.35:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.35:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.138.16.62:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@194.87.77.250:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
