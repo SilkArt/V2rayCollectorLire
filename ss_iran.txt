@@ -1,7 +1,5 @@
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 115
-ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@vpnclashfa - 114
-ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 113
-ss://ae862e1d-3b8c-443a-027b-37c6c69ef43c@45.192.101.134:9527?encryption=auto&security=none&type=tcp#@vpnclashfa - 112
+ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@vpnclashfa - 113
+ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 112
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 111
 ss://YWVzLTI1Ni1nY206OGRkYzBhNDctOWE3Zi00MWUxLWFkZjctZjYzMjIyNzZjMWNh@120.241.239.79:23001#@vpnclashfa - 110
 ss://YWVzLTI1Ni1nY206OGRhNjhiMDgtMmQ2MS00MTYzLWE1Y2UtNzM5MDgyZjZlZjBi@jp01.b.node-ip.top:23008#@vpnclashfa - 109
