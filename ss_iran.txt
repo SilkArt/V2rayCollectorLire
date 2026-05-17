@@ -113,8 +113,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1
 ss://738c7c92-9bb6-4294-8250-b224fb95fc78@2.144.21.44:443?encryption=none&type=ws&security=tls&path=%2Fcity%2Fsetting%3Fed%3D2560&host=roncomi.pages.dev&sni=roncomi.pages.dev&alpn=h2&fp=chrome&allowInsecure=0#@vpnclashfa - 11
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=webmode.yota.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 10
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=webmode.yota.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 9
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 8
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 7
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 8
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 7
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 6
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 5
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 4
