@@ -1,3 +1,4 @@
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 123
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 122
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:443#@vpnclashfa - 121
 ss://YWVzLTI1Ni1nY206OGRkYzBhNDctOWE3Zi00MWUxLWFkZjctZjYzMjIyNzZjMWNh@120.241.239.79:23001#@vpnclashfa - 120
@@ -116,7 +117,7 @@ ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 7
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 6
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 5
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 4
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 3
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 4
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=api-maps.yandex.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 3
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=api-maps.yandex.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 2
 ss://0d9bd1bc-6d14-44f2-8bfa-dd6210d1b14f@104.168.1.102:8222?encryption=auto&security=none&type=ws#@vpnclashfa - 1
