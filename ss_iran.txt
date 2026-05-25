@@ -1,9 +1,7 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 111
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 110
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 109
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 108
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 107
-ss://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=tcp#@vpnclashfa - 106
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 109
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 108
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 107
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 106
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 105
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443?#@vpnclashfa - 104
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#@vpnclashfa - 103
