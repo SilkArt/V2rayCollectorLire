@@ -150,9 +150,9 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0V
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#@vpnclashfa - 13
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0%3D@49.13.3.249:23997#@vpnclashfa - 12
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#@vpnclashfa - 11
-ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=http%2F1.1&encryption=auto&security=tls&sni=uk5.taskflowhub.org&type=tcp#@vpnclashfa - 10
-ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 9
-ss://85bf5801-4658-441c-a2e5-842c6c71a521@de5.niekotin.de:80?encryption=auto&host=de5.niekotin.de&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 8
+ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 10
+ss://85bf5801-4658-441c-a2e5-842c6c71a521@de5.niekotin.de:80?encryption=auto&host=de5.niekotin.de&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 9
+ss://58fe1542-5290-40ad-815a-77707a81afe5@speedtest.org:80?encryption=auto&host=de2.ping-game.ir&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 8
 ss://533ae32c-5dda-11f1-a6eb-23a176880b5a@51.195.91.135:10000?encryption=auto&path=%2Fvpnjantit&security=none&type=ws#@vpnclashfa - 7
 ss://38ed5d70-443e-4ac3-b877-ea21d97fed93@de4.niekotin.de:80?encryption=auto&host=de4.niekotin.de&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 6
 ss://2022-blake3-aes-256-gcm:tEY1W9tCYB6R5Y22378dJ9yh4H4PAZlAM%2Fm31aG1PYM=@46.225.30.16:49534#@vpnclashfa - 5
