@@ -1,9 +1,6 @@
-ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 188
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dTFqQnd1anA4SEI0dHZPVkNocDd5Z2l5QlIxckRmL2IxMnI1SzlUWEZTbz0%3D@62.60.163.84:10374#@vpnclashfa - 187
-ss://d7a4643c-1b72-4199-b54d-810da8d0e657@it.connfull.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 186
-ss://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&security=none&type=tcp#@vpnclashfa - 185
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 184
-ss://ac8bcf5e-bb58-4e8b-b4e4-5fdea010a6c6@51.254.133.152:80?encryption=auto&host=fr5.niekotin.de&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 183
+ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 185
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dTFqQnd1anA4SEI0dHZPVkNocDd5Z2l5QlIxckRmL2IxMnI1SzlUWEZTbz0%3D@62.60.163.84:10374#@vpnclashfa - 184
+ss://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&security=none&type=tcp#@vpnclashfa - 183
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#@vpnclashfa - 182
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 181
 ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#@vpnclashfa - 180
