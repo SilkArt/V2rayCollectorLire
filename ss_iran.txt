@@ -181,5 +181,5 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHh6U25HNWxlMnkxNmJOcWR5TDJIajJiOVFqcHRxMlV
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#@vpnclashfa - 5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U25tVk1ISHgzbERiaVBBWXIvZEErdE1ERlBwcVJGaEdnSFdpL3VTcTd2MD06REtBUFd1TU03S1NsRmoxdnRaaTJnZXN0MFhRbTByNnl0Sktvak1CeUlpUT0%3D@fonixorg.fon1xemergency.top:48788#@vpnclashfa - 4
 ss://3c61ea53-a550-4252-8211-956f9f7dc2d0@62.60.151.41:57865?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 3
-ss://0cdfc4e0-67aa-40a9-8749-387bf9e11fd9@65.109.186.44:433?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
+ss://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
