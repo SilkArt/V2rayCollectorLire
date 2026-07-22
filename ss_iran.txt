@@ -1,8 +1,8 @@
 ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 235
 ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 234
-ss://d1b0c103-a7ff-4bd6-887d-a73d6ebf1f50@94.103.167.116:80?encryption=auto&security=none&type=tcp#@vpnclashfa - 233
-ss://cd80d0a4-a8ef-4492-b956-da82a6cecaf9@[2001:bc8:32d7:225::3]:55009?encryption=auto&path=%2F0zNW56sF&security=none&type=ws#@vpnclashfa - 232
-ss://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:52525?encryption=auto&security=none&type=tcp#@vpnclashfa - 231
+ss://cd80d0a4-a8ef-4492-b956-da82a6cecaf9@[2001:bc8:32d7:225::3]:55009?encryption=auto&path=%2F0zNW56sF&security=none&type=ws#@vpnclashfa - 233
+ss://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:52525?encryption=auto&security=none&type=tcp#@vpnclashfa - 232
+ss://af1ccd89-b66b-44e8-99b8-0d945078c04b@tg.hrmp.kdns.fr:8443?encryption=auto&host=tg.hrmp.kdns.fr&path=%2Ftirexvmess&security=tls&sni=tg.hrmp.kdns.fr&type=ws#@vpnclashfa - 231
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 230
 ss://YWVzLTI1Ni1nY206c3NfMTc4NDU2ODYwNw@217.149.22.152:2050?type=tcp&headerType=none#@vpnclashfa - 229
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#@vpnclashfa - 228
@@ -227,8 +227,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d2laamtMaXU3YWhHd0xORGdoZ1lYdHowRkhWMGxDQXFybHpqVFlUbXIvYz06ZGVtRWt5bVVrUnZHNjNFZDdGMmIxUDZwVHVHQUE5MEkwTGZLeGdiVUZkOD0%3D@139.162.102.16:46965#@vpnclashfa - 9
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#@vpnclashfa - 8
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#@vpnclashfa - 7
-ss://5ed7206a-cd8d-4b02-add1-4f7b787178c9@31.77.149.131:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 6
-ss://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=http%2F1.1&encryption=auto&host=ger.wafer.fun&path=%2FYgpuN95HyS2aFuy7hnbpM3&security=tls&sni=ger.wafer.fun&type=httpupgrade#@vpnclashfa - 5
+ss://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=http%2F1.1&encryption=auto&host=ger.wafer.fun&path=%2FYgpuN95HyS2aFuy7hnbpM3&security=tls&sni=ger.wafer.fun&type=httpupgrade#@vpnclashfa - 6
+ss://3cd9077d-76f7-4104-bd82-eb6916b89d43@c87s5.portablesubmarines.com:18339?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
 ss://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:17367?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.92.167:48824?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
