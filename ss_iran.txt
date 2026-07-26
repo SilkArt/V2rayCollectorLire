@@ -1,3 +1,4 @@
+ss://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:52525?encryption=auto&security=none&type=tcp#@vpnclashfa - 198
 ss://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 197
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 196
 ss://YWVzLTI1Ni1nY206c3NfMTc4NDU2ODYwNw@217.149.22.152:2050?type=tcp&headerType=none#@vpnclashfa - 195
