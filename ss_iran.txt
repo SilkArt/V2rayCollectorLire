@@ -202,6 +202,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy8
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206KzREUXhCTDVVY05pWi9DenZvOG1VR3RhZzljNnNOajVMTFJ0QmM3YVk0UT06OUdsNUVHWnlYMGNvaVR3NUxhaHE1TTF6dTVzejNqTWZVSHpCMEFpVjFOUT0@62.60.238.19:31682#@vpnclashfa - 6
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 5
 ss://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:15124?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
-ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 3
+ss://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:40873?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=%2Fvideo%2Fo2nwt7%2Fr0r2dmbb.m3u8&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 1
