@@ -1,7 +1,8 @@
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 219
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 218
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 217
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 216
-ss://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&security=none&type=tcp#@vpnclashfa - 215
+ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@65.109.178.10:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 215
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 214
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 213
 ss://ceeaee0b-89af-40b1-aa14-577cbde03a89@132.145.200.43:2054?encryption=auto&path=%2Fp&security=none&type=ws#@vpnclashfa - 212
@@ -201,10 +202,10 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d2laamtMaXU3YWhHd0xORGdoZ1lYdHowRkhWMGxDQXF
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VkREK3ZERmRxOGFkNFloMmY5aEI3Y0VheVdJS21aa1RhVXh4QzJ1Qy9jOD06d0UwQ0ErcUZ5NkhwWEVZRGNrRWcxU2xocUwzN0JQdEphQ1BvdGt6WWpFMD0@91.107.157.137:56352#@vpnclashfa - 18
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#@vpnclashfa - 17
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206KzREUXhCTDVVY05pWi9DenZvOG1VR3RhZzljNnNOajVMTFJ0QmM3YVk0UT06OUdsNUVHWnlYMGNvaVR3NUxhaHE1TTF6dTVzejNqTWZVSHpCMEFpVjFOUT0@62.60.238.19:31682#@vpnclashfa - 16
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&path=%2Fdevm&security=tls&type=ws#@vpnclashfa - 15
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 14
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 13
-ss://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:15124?encryption=auto&security=none&type=tcp#@vpnclashfa - 12
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 15
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 14
+ss://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:15124?encryption=auto&security=none&type=tcp#@vpnclashfa - 13
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 12
 ss://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&security=none&type=tcp#@vpnclashfa - 11
 ss://3a966d20-7b9d-48cc-ba2c-8d38161b6d3a@[2001:bc8:32d7:1a9::2]:23388?encryption=auto&host=2001%3Abc8%3A32d7%3A1a9%3A%3A2&path=%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang&security=none&type=ws#@vpnclashfa - 10
 ss://260270e9-c25c-491a-8777-ea4e5173d49c@neo.novaro.ir:2087?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 9
