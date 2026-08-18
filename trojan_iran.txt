@@ -1,5 +1,4 @@
-trojan://wu2wei2yi1@93.179.103.129:8443?allowInsecure=1&sni=ray.5stock.cn#@vpnclashfa - 480
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@vpnclashfa - 479
+trojan://wu2wei2yi1@93.179.103.129:8443?allowInsecure=1&sni=ray.5stock.cn#@vpnclashfa - 479
 trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#@vpnclashfa - 478
 trojan://telegram-id-directvpn@63.179.9.91:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 477
 trojan://telegram-id-directvpn@18.198.122.60:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 476
