@@ -1,6 +1,5 @@
-ss://fe0f6ae2-85e4-4815-9206-4209bc118e94@193.168.200.207:55136?encryption=auto&host=pull.free.video.10010.com&path=%2F&security=none&type=ws#@vpnclashfa - 204
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 203
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 202
+ss://fe0f6ae2-85e4-4815-9206-4209bc118e94@193.168.200.207:55136?encryption=auto&host=pull.free.video.10010.com&path=%2F&security=none&type=ws#@vpnclashfa - 203
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 202
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 201
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 200
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 199
@@ -192,10 +191,10 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTJ1dzB6SkN2TWVBcGRWTlEyVyszbVlISHNNazFZVHViZG5FblNSa2oyMD0=@130.61.38.10:59924#@vpnclashfa - 13
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SEtackloTkNCRlhOTGFwdlZmR1VOakI5YlRKWTBMZjhYdi9WcGtZVXJZdz0@152.70.47.21:59924#@vpnclashfa - 12
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&path=%2Fdevm&security=tls&type=ws#@vpnclashfa - 11
-ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@newrelax.relaxedboy.online:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 10
-ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@94.156.170.102:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 9
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 8
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 7
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 10
+ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@newrelax.relaxedboy.online:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 9
+ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@94.156.170.102:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 8
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 7
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 6
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 5
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 4
