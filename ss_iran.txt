@@ -175,9 +175,9 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NEU3ZWxRL0dNZmlYTzNQK0JHRWUvdDVIMnFGVDY4VFZ
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VW9Velk1WWxjVUJKcGdYaS9aM1BFYWY1OEUrKytGSiszQUtyeTVWN0o5WT0=@130.61.232.1:59924#@vpnclashfa - 11
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TXlpdGoyZHppNk80elZ5bDlGcEFjdnpCQXJrZnZzN3ZjVWdmTHZUK2haUT0=@130.61.238.73:59924#@vpnclashfa - 10
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K050NUlkYXpIMWdIN0NnN092Rm9EWDhSeDNrb1ppM1luSGJ1bm5sQXVVTT0=@129.151.66.142:61312#@vpnclashfa - 9
-ss://9bcfd3b5-5f71-4938-b1d2-f8fdd895095d@172.86.108.79:42906?encryption=auto&host=www.bing.com&path=%2F9bcfd3b5-5f71-4938-b1d2-f8fdd895095d-vm&security=none&type=ws#@vpnclashfa - 8
-ss://83b09a64-1eaf-4c4d-89ed-866d4b6b8115@www.speedtest.net:443?encryption=auto&host=www.ubuntuupdates.com&path=%2Ftruth&security=tls&sni=www.ubuntuupdates.com&type=ws#@vpnclashfa - 7
-ss://5e2c7665-3c4c-4591-b77c-c3c90981c10f@195.26.26.162:37044?encryption=auto&security=none&type=tcp#@vpnclashfa - 6
+ss://83b09a64-1eaf-4c4d-89ed-866d4b6b8115@www.speedtest.net:443?encryption=auto&host=www.ubuntuupdates.com&path=%2Ftruth&security=tls&sni=www.ubuntuupdates.com&type=ws#@vpnclashfa - 8
+ss://5e2c7665-3c4c-4591-b77c-c3c90981c10f@195.26.26.162:37044?encryption=auto&security=none&type=tcp#@vpnclashfa - 7
+ss://5c040f1d-45db-43bd-8d46-e4950e433735@172.111.38.246:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 6
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.7.16.228:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 5
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@138.199.55.230:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 4
 ss://1aba92cc-d94c-4536-a0a3-1540cb82f38c@91.107.147.12:36594?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
